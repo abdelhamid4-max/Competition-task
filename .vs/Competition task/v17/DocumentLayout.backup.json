@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|c:\\users\\egypt\\documents\\depi\\csharp\\competition task\\competition task\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|solutionrelative:competition task\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|c:\\users\\egypt\\documents\\depi\\csharp\\competition task\\competition task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|solutionrelative:competition task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|c:\\users\\egypt\\documents\\depi\\csharp\\competition task\\competition task\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|solutionrelative:competition task\\employee_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|c:\\users\\egypt\\documents\\depi\\csharp\\competition task\\competition task\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A383FAAD-CA47-4C21-9211-4AE205349D17}|Competition task\\Competition task.csproj|solutionrelative:competition task\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\Employee.cs",
+              "RelativeDocumentMoniker": "Competition task\\Employee.cs",
+              "ToolTip": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\Employee.cs",
+              "RelativeToolTip": "Competition task\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:52:23.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Competition task\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\IEmployeeService.cs",
+              "RelativeToolTip": "Competition task\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T23:24:18.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee_Service.cs",
+              "DocumentMoniker": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\Employee_Service.cs",
+              "RelativeDocumentMoniker": "Competition task\\Employee_Service.cs",
+              "ToolTip": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\Employee_Service.cs",
+              "RelativeToolTip": "Competition task\\Employee_Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:10:24.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\Program.cs",
+              "RelativeDocumentMoniker": "Competition task\\Program.cs",
+              "ToolTip": "C:\\Users\\Egypt\\Documents\\DEPI\\Csharp\\Competition task\\Competition task\\Program.cs",
+              "RelativeToolTip": "Competition task\\Program.cs",
+              "ViewState": "AgIAAA0AAACg+/////8fwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T22:01:16.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
